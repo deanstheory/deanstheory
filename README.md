@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi. Trying to keep my mind busy.
+
 <!--
 **deanstheory/deanstheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
