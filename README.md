@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mournes](mournes.jpg)
+![Mournes](https://github.com/deanstheory/deanstheory/blob/master/mournes.jpg)
 
 
 Hi. Trying to keep my mind busy.
